@@ -3,3 +3,4 @@ mysql:8.0.29
 bitnami/redis
 k8s.gcr.io/pause:3.1
 docker.io/calico/cni:v3.21.4
+docker.io/calico/pod2daemon-flexvol:v3.21.4
