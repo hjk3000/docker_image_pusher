@@ -2,3 +2,4 @@ ubuntu:22.04
 mysql:8.0.29
 bitnami/redis
 registry.k8s.io/pause:3.7
+docker.io/calico/cni:v3.23.5
