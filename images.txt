@@ -10,3 +10,4 @@ registry.k8s.io/metrics-server/metrics-server:v0.5.2
 kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
 registry.k8s.io/ingress-nginx/controller:v1.5.1
+williamyeh/wrk:4.0.2
